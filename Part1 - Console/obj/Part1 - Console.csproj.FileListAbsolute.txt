@@ -1,0 +1,5 @@
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\SerialComm in C Sharp\Part1 - Console\bin\Debug\Part1 - Console.exe
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\SerialComm in C Sharp\Part1 - Console\bin\Debug\Part1 - Console.pdb
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\SerialComm in C Sharp\Part1 - Console\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\SerialComm in C Sharp\Part1 - Console\obj\Debug\Part1 - Console.exe
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\SerialComm in C Sharp\Part1 - Console\obj\Debug\Part1 - Console.pdb

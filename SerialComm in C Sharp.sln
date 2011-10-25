@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part1 - Console", "Part1 - Console\Part1 - Console.csproj", "{080ED5A2-DA66-4D99-B967-54CF9BABD685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part1 - GUI", "Part1 - GUI\Part1 - GUI.csproj", "{BEE596C7-4DC8-40FA-960B-127535F2EC87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{080ED5A2-DA66-4D99-B967-54CF9BABD685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080ED5A2-DA66-4D99-B967-54CF9BABD685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080ED5A2-DA66-4D99-B967-54CF9BABD685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080ED5A2-DA66-4D99-B967-54CF9BABD685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEE596C7-4DC8-40FA-960B-127535F2EC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE596C7-4DC8-40FA-960B-127535F2EC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE596C7-4DC8-40FA-960B-127535F2EC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE596C7-4DC8-40FA-960B-127535F2EC87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\SerialComm in C Sharp\Part1 - GUI\bin\Debug\Part1 - GUI.exe
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\SerialComm in C Sharp\Part1 - GUI\bin\Debug\Part1 - GUI.pdb
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\SerialComm in C Sharp\Part1 - GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\SerialComm in C Sharp\Part1 - GUI\obj\Debug\Part1___GUI.Form1.resources
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\SerialComm in C Sharp\Part1 - GUI\obj\Debug\Part1___GUI.Properties.Resources.resources
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\SerialComm in C Sharp\Part1 - GUI\obj\Debug\Part1 - GUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\SerialComm in C Sharp\Part1 - GUI\obj\Debug\Part1 - GUI.exe
+C:\Documents and Settings\dentellaluca\My Documents\Visual Studio 2005\Projects\SerialComm in C Sharp\Part1 - GUI\obj\Debug\Part1 - GUI.pdb
