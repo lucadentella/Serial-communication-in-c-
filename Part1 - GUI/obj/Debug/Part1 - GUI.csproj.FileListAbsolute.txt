@@ -1,0 +1,9 @@
+C:\Users\dentellaluca\Elettronica\Miei progetti\SerialComm in C Sharp\Sw\Part1 - GUI\obj\Debug\Part1 - GUI.exe
+C:\Users\dentellaluca\Elettronica\Miei progetti\SerialComm in C Sharp\Sw\Part1 - GUI\obj\Debug\Part1 - GUI.pdb
+C:\Users\dentellaluca\Elettronica\Miei progetti\SerialComm in C Sharp\Sw\Part1 - GUI\bin\Debug\Part1 - GUI.exe
+C:\Users\dentellaluca\Elettronica\Miei progetti\SerialComm in C Sharp\Sw\Part1 - GUI\bin\Debug\Part1 - GUI.pdb
+C:\Users\dentellaluca\Elettronica\Miei progetti\SerialComm in C Sharp\Sw\Part1 - GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dentellaluca\Elettronica\Miei progetti\SerialComm in C Sharp\Sw\Part1 - GUI\obj\Debug\Part1___GUI.Form1.resources
+C:\Users\dentellaluca\Elettronica\Miei progetti\SerialComm in C Sharp\Sw\Part1 - GUI\obj\Debug\Part1___GUI.Properties.Resources.resources
+C:\Users\dentellaluca\Elettronica\Miei progetti\SerialComm in C Sharp\Sw\Part1 - GUI\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\dentellaluca\Elettronica\Miei progetti\SerialComm in C Sharp\Sw\Part1 - GUI\obj\Debug\GenerateResource-ResGen.write.1.tlog

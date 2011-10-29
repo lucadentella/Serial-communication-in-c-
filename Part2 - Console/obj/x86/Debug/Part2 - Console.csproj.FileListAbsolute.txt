@@ -1,0 +1,5 @@
+C:\Users\dentellaluca\Elettronica\Miei progetti\SerialComm in C Sharp\Sw\Part2 - Console\bin\Debug\Part2 - Console.exe
+C:\Users\dentellaluca\Elettronica\Miei progetti\SerialComm in C Sharp\Sw\Part2 - Console\bin\Debug\Part2 - Console.pdb
+C:\Users\dentellaluca\Elettronica\Miei progetti\SerialComm in C Sharp\Sw\Part2 - Console\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dentellaluca\Elettronica\Miei progetti\SerialComm in C Sharp\Sw\Part2 - Console\obj\x86\Debug\Part2 - Console.exe
+C:\Users\dentellaluca\Elettronica\Miei progetti\SerialComm in C Sharp\Sw\Part2 - Console\obj\x86\Debug\Part2 - Console.pdb
